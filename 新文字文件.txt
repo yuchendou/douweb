@@ -1,5 +1,5 @@
-https://yuchendou.github.io/personalweb/
+https://yuchendou.github.io/douweb/
 
-https://github.com/yuchendou/personalweb
+https://github.com/yuchendou/douweb
 
-https://github.com/yuchendou/personalweb.git
+https://github.com/yuchendou/douweb.git
